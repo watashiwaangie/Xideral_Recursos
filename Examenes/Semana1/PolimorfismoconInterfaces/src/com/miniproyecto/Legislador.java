@@ -1,9 +1,9 @@
 package com.miniproyecto;
 
-//Clase padre abstracta.
+//Interface
 public interface Legislador {
 	
-	//Metodo abstracto
+	
 	public abstract String getCamaraEnQueTrabaja();
 	
 	
