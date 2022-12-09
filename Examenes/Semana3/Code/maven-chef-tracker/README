@@ -1,0 +1,7 @@
+CRUD WEB (JSP-SERVLETS-JDBC) --- En colaboración con Ignacio Isaac
+
+El CRUD para esta actividad consiste en un restaurante que lleva un registro de sus Chefs.
+
+En la carpeta "maven-chef-tracker" se encuentra el código para la ejecución de una web sencilla 
+en la que se realizan las operaciones de un CRUD. Dicha web se conecta a una BD creada en MySQL.
+Se implementaron JSPs, Servlets y JDBCs para el desarrollo del proyecto.
